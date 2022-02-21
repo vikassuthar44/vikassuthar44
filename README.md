@@ -6,10 +6,10 @@ I pride myself on having an artistic eye despite being “just” a developer an
 
 Interested in working together? Let's grab a coffee and talk tech, music, TV shows, or latest adventures.
 
-Skills 💻
+# Skills 💻
 Languages: Kotlin; Java; Swift
 Interests: Machine Learning; UI/UX; Photography
-Contact 📮
+# Contact 📮
 //Website: waseefakhtar.com
 Twitter: @waseefakhtar
 LinkedIn: https://www.linkedin.com/in/prsuthar/

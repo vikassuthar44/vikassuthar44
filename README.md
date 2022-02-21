@@ -1,4 +1,4 @@
-# vikassuthar
+# Vikas Suthar (Android Developer)
 # Hi there 👋
 I’m an Android developer with over 3 years of experience in building high-quality and meaningful products mostly in startups.
 
@@ -10,8 +10,6 @@ Interested in working together? Let's grab a coffee and talk tech, music, TV sho
 Languages: Kotlin; Java; Swift
 Interests: Machine Learning; UI/UX; Photography
 # Contact 📮
-//Website: waseefakhtar.com
-Twitter: @waseefakhtar
 LinkedIn: https://www.linkedin.com/in/prsuthar/
 Medium: medium.com/@prsuthar44
 ✉️ prsuthar44@gmail.com

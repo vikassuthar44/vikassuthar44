@@ -14,4 +14,4 @@ Interests: Machine Learning; UI/UX; Photography
 Twitter: @waseefakhtar
 LinkedIn: https://www.linkedin.com/in/prsuthar/
 Medium: medium.com/@prsuthar44
-✉️ waseefakhtar@gmail.com
+✉️ prsuthar44@gmail.com

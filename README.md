@@ -53,9 +53,9 @@ Myself `Vikas Suthar`. I'm a mobile technology enthusiast! love Android __kotlin
 ## Stalk Me 👀
 
 <a href="https://twitter.com/Ofc_vikas/" target="_blank"><img src="https://img.shields.io/badge/Twitter-Vikas_Suthar-00acee?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-<a href="https://bit.ly/vikassuthar44/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Vikas_Suthar-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>
-<a href="https://bit.ly/vikassuthar44/" target="_blank"><img src="https://img.shields.io/badge/github-Vikas-4078c0?style=for-the-badge&logo=github" alt="github"></a> 
-<a href="https://bit.ly/prsuthar44/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vikas%20Suthar-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
+<a href="https://www.instagram.com/vikas_suthar44/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Vikas_Suthar-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>
+<a href="https://github.com/vikassuthar44/" target="_blank"><img src="https://img.shields.io/badge/github-Vikas-4078c0?style=for-the-badge&logo=github" alt="github"></a> 
+<a href="https://www.linkedin.com/in/prsuthar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vikas%20Suthar-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
 
 
 <p align="center">

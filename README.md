@@ -10,7 +10,7 @@ Myself `Vikas Suthar`. I'm a mobile technology enthusiast! love Android __kotlin
 
 - 🚀 A Passionate Android Developer 
 - :trophy: Kotlin Fan boy 
-- 🔭 I’m currently working on Android Master Book!.
+- 🔭 I’m currently working on Android Moodify App.
 - 🌱 I’m currently learning Compose and Flutter.<br />
 
 

@@ -60,7 +60,7 @@ Myself `Vikas Suthar`. I'm a mobile technology enthusiast! love Android __kotlin
 <a href="https://github.com/vikassuthar44/" target="_blank"><img src="https://img.shields.io/badge/github-Vikas-4078c0?style=for-the-badge&logo=github" alt="github"></a> 
 <a href="https://www.linkedin.com/in/prsuthar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vikas%20Suthar-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> 
 
-
+![](https://komarev.com/ghpvc/?username=vikassuthar44)
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ch8n">
 </p≈>

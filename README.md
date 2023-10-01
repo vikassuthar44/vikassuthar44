@@ -26,6 +26,7 @@ Myself `Vikas Suthar`. I'm a mobile technology enthusiast! love Android __kotlin
 
 ## Languages
 <img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java"> <img src="https://img.shields.io/badge/Flutter-303030?style=for-the-badge&logo=Flutter" alt="Flutter">
+<img src="https://img.shields.io/badge/spring_boot-303030?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
 
 ## Technologies
 

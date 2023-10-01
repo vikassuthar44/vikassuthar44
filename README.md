@@ -9,7 +9,7 @@ Myself `Vikas Suthar`. I'm a mobile technology enthusiast! love Android __kotlin
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🚀 A Passionate Android Developer 
-- :trophy: Kotlin Fanboy 
+- :trophy: Kotlin and Jetpack Compose Fanboy 
 - 🔭 I’m currently working on the Android Moodify App.
 - 💡 I’m currently learning BackEnd: Spring Boot with Kotlin.<br />
 - 🌱 I’m currently learning KMM and Flutter.<br />
